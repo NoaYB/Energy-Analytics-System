@@ -1,34 +1,27 @@
-# Energy-Analytics-System - Task Submission
-**This document serves as your guide to navigate through the submitted task files.** 
-> **IMPORTANT NOTE:** 
-> All the submitted solutions, refactored code, and completed task files are located exclusively inside the **`Solution`** folder.
+# Full Stack Challenge: Energy Monitoring System
 
-## Project Structure & Solutions Map
+**Quick Guide:** All my work and solutions are exclusively located in the **`Solution`** folder. 
 
+##  Project Structure
 
-The `Solution` directory is divided into five main sections corresponding to the task requirements:
+### 1. `Original_Source_Files/`
+Contains the unedited task instructions and raw initial files provided for reference.
 
-### 1. Backend (C#)
-Location: `Solution/Backend_C#/`
-- `EnergyAnalyticsService.cs`
-- `ai-prompts.md`
+### 2. `Solution/Backend_C#/`
+- **`EnergyAnalyticsService.cs`:** Analyzed and refactored the original code .
+- **`ai-prompts.md`:** Documentation of the AI prompts used and my manual validation process for security and correctness.
 
-### 2. Database (MySQL)
-Location: `Solution/Database_MySQL/`
-- `query.sql`
+### 3. `Solution/Database_MySQL/`
+- **`query.sql`:** Optimized 
+SQL query and a comprehensive strategy for 10M+ row 24h indexing.
 
-### 3. Frontend (React & SCSS)
-Location: `Solution/Frontend_React/`
-- `AbnormalDevicesDashboard.tsx`
+### 4. `Solution/Frontend_React/`
+- **`AbnormalDevicesDashboard.tsx`:** An 
+ standalone React UI demonstrating AI insights integration, pagination.
 
-### 4. Q&A (Deep Dive Questions)
-Location: `Solution/Q&A/`
-- `answers.md`
-
-### 5. Original Source Files
-Location: `Original_Source_Files/`
-`
+### 5. `Solution/Q&A/`
+- **`answers.md`:** Detailed English responses to the theoretical questions .
 
 ---
-Thank you for reviewing my code,
+Thank you for your time,
 **Noa**
