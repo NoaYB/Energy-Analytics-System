@@ -6,7 +6,7 @@
 ## Project Structure & Solutions Map
 
 
-The `Solution` directory is divided into four main sections corresponding to the task requirements:
+The `Solution` directory is divided into five main sections corresponding to the task requirements:
 
 ### 1. Backend (C#)
 Location: `Solution/Backend_C#/`
@@ -24,6 +24,10 @@ Location: `Solution/Frontend_React/`
 ### 4. Q&A (Deep Dive Questions)
 Location: `Solution/Q&A/`
 - `answers.md`
+
+### 5. Original Source Files
+Location: `Original_Source_Files/`
+`
 
 ---
 Thank you for reviewing my code,
